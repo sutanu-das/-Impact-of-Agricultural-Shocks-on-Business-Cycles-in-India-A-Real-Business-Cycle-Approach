@@ -1,0 +1,2 @@
+# -Impact-of-Agricultural-Shocks-on-Business-Cycles-in-India-A-Real-Business-Cycle-Approach
+This project analyzes agricultural shocks' impact on India's business cycle using a two-sector RBC model, incorporating land and rainfall variability. Calibrated with 1995–2024 data, it shows irrigation mitigates weak rainfall effects. Includes slides, equations, and scripts for macroeconomic policy insights.
